@@ -1,4 +1,4 @@
-# VisioIntuneDeployment
+# Visio Intune Deployment
 Package for deploying Microsoft Intune via Microsoft Intune using built in MDT component
 
 Deploy app via Intune
